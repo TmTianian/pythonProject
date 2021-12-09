@@ -1,0 +1,5 @@
+defaults:
+  - models: gcn
+  - datasets: bbbp
+  - explainers: subgraphx
+device_id: 0
